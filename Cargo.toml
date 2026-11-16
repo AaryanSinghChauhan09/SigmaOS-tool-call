@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-tool-call"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS tool-call component"
+
+[lib]
+name = "tool_call"
+path = "src/lib.rs"
